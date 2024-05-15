@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927986401704",
+    "project_id": "shifa-a04a8",
+    "storage_bucket": "shifa-a04a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927986401704:android:4103ca108d0a778c705d9d",
+        "android_client_info": {
+          "package_name": "com.example.shifa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYL1z2aXvu4_vE621KLZ3ImCiLIh2On8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
